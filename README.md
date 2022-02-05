@@ -9,8 +9,10 @@
 
 Beware of false accounts, emails, links...
 
-Source for official addresses
-https://github.com/zero-company/zero-official/blob/main/packages/zero-addresses/zero-addresses.json
+Sources for official addresses
+
+- https://cdn.jsdelivr.net/gh/zero-company/zero-official@master/packages/zero-addresses/zero-addresses.json
+- https://github.com/zero-company/zero-official/blob/main/packages/zero-addresses/zero-addresses.json
 
 ```
 {
