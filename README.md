@@ -12,7 +12,7 @@ Beware of false accounts, emails, links...
 Sources for official addresses
 
 - https://cdn.jsdelivr.net/gh/zero-company/zero-official@master/packages/zero-addresses/zero-addresses.json
-- https://github.com/zero-company/zero-official/blob/main/packages/zero-addresses/zero-addresses.json
+- https://raw.githubusercontent.com/zero-company/zero-official/main/packages/zero-addresses/zero-addresses.json
 
 ```
 {
